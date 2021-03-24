@@ -16,7 +16,7 @@ MonoBehaviour:
     vuforiaLicenseKey: ARI/fSn/////AAABmfZm5yO1n08DkmI8/Dei0Hh3PMcbo1C/IqiL5I04ePAV2eGOyw5XUjmbAwCCvTVQl1r8IbwvqrapuRYCjb5I8mjtOfS6PrxtfM0cGTUALHk2aKJmcCQ0tLPb1VZuYVZ71dMNYrpEpQZNjfza4Y9Nr832j2O2Mha/4lsfwNWjs7i1EmrxLLt6g5SNgwO3UlEFZ4t7x1ubXvj2kHb/1ZYnWvjaNRyvRrrv3O0ZhU3uJM1SlMcVf9LtEo2ZrexceZgteT/aE9PmFP21qM4gZm3k7X60H8qsAUSuIDyHewaHNzhjPkvjQsAvvL0hewGcGIpMqVVR11TF87Vj6XeO0pD7tDNyVXS/jgUZ/tSXBrO5PjJy
     ufoLicenseKey: QVlMQ1Uydi8vLy8vQUFBQUtGOFcwcnNPM1V6bW0xOU1RK09zZ0V5WEdValplU01qNHBrUHN0WFZYSW1NcURoS294TXVYb0syNlh4ZTRZTjRKVG9TZzZaYTFDK09aQ29kZ1N6ejJmUTdJVy9DSUVrV29qVFlWT1NXZnJ4bzF6Y3d5NnRiRXlEaVNIUWFhWWVSUlhNdVQza0t0Vm5kSTd4Vmk1OXZ4QzVVWWxlWlZGUmNEYm5heDRnK0VmNXJmOWdTd0VsTHRweERsZytOTTZKcVh5cUR0R25kR2JGNWp3S2wwZWJvN1duYjFrNC9nWkVaMjhZN2x5dTJYNTJmaG90TmQ2OERkWE9tcDhQd0JkUklSVWJNYkxaRjVLdC9iU2VYUVExVmRaVEQ3cmdOK3FrVGxPS3JqM3c4clJlRTE1L0pkMnlVVmxTbE00ZnBjSjBlTGZOR3lQV1QxM01VKzhpd2l0SWYzS2tVbU0yaFUrY045SFlkcVJOdUF2WTc=
     delayedInitialization: 0
-    cameraDeviceModeSetting: -1
+    cameraDeviceModeSetting: -3
     maxSimultaneousImageTargets: 1
     maxSimultaneousObjectTargets: 1
     virtualSceneScaleFactor: 1
@@ -37,12 +37,12 @@ MonoBehaviour:
     videoBackgroundEnabled: 1
   deviceTracker:
     autoStartTracker: 1
-    arcoreRequirement: 1
-    autoImportArcore: 1
+    arcoreRequirement: 0
+    autoImportArcore: 0
   playmode:
     mSequencePath: 
     playModeType: 0
   webcam:
     renderTextureLayer: 30
   packageInformation:
-    ARFoundationVersion: 
+    ARFoundationVersion: 2.1.14
